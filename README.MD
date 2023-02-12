@@ -22,7 +22,7 @@ This was my final project for the Microprocessors I course from UAGM (ELEN 442).
 
 ### Building Procedure
 
-First, get an Arduino. On this project I used the Arduino Uno R3. Next you need a TFT based screen, as mentioned on the Electronics Components, a KMR 1.8 SPI. You need an ECG sensor, here I used the [Sparkfun’s AD8232](https://www.sparkfun.com/products/12650). You will need to buy at least on [Crocodile Clips](https://a.co/d/3fdAH9w). These will be useful to connect the electrodes to the sensor.
+First, get an Arduino. On this project I used the Arduino Uno R3. Next you need a TFT based screen, as mentioned on the Electronics Components, a KMR 1.8 SPI. You can buy this [one](https://www.ebay.com/itm/224247068167?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=Y1eA0PO-TMO&sssrc=2047675&ssuid=&widget_ver=artemis&media=COPY), it is a TFT based one. You need an ECG sensor, here I used the [Sparkfun’s AD8232](https://www.sparkfun.com/products/12650). You will need to buy at least on [Crocodile Clips](https://a.co/d/3fdAH9w). These will be useful to connect the electrodes to the sensor.
 
 I recommend to set up the screen first. Here is a the [data sheet](https://forum.arduino.cc/t/graphics-library-for-cheap-kmr-1-8-spi-s6d02a1-and-ili9163-tft-displays/391450/52) of the KMR 1.8 SPI screen. You need the libraries of the screen as well. You can get them here:
 
