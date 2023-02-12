@@ -31,4 +31,4 @@ I recommend to set up the screen first. Here is a the [data sheet](https://forum
   [TFT_ST7735](https://github.com/Bodmer/TFT_ST7735)
   
   ### PoC
-![/images/patient_states.png](poc)
+![patient_states](/images/patient_states.png)
