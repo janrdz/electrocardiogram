@@ -1,5 +1,8 @@
 # Electrocardiogram
 
+### Proof of Concept
+![patient_states](/images/patient_states.png)
+
 An electrocardiogram is a medical tool that records the electrical activity of the heart.
 
 ## Getting Started
@@ -29,6 +32,3 @@ I recommend to set up the screen first. Here is a the [data sheet](https://forum
   [TFT_S6D02A1](https://github.com/Bodmer/TFT_S6D02A1)
   <br>
   [TFT_ST7735](https://github.com/Bodmer/TFT_ST7735)
-  
-  ### PoC
-![patient_states](/images/patient_states.png)
