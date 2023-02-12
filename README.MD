@@ -29,5 +29,6 @@ I recommend to set up the screen first. Here is a the [data sheet](https://forum
   [TFT_S6D02A1](https://github.com/Bodmer/TFT_S6D02A1)
   <br>
   [TFT_ST7735](https://github.com/Bodmer/TFT_ST7735)
-
-Well...
+  
+  ### PoC
+![/images/patient_states.png](poc)
