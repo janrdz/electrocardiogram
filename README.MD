@@ -27,6 +27,7 @@ First, get an Arduino. On this project I used the Arduino Uno R3. Next you need 
 I recommend to set up the screen first. Here is a the [data sheet](https://forum.arduino.cc/t/graphics-library-for-cheap-kmr-1-8-spi-s6d02a1-and-ili9163-tft-displays/391450/52) of the KMR 1.8 SPI screen. You need the libraries of the screen as well. You can get them here:
 
 [TFT_S6D02A1](https://github.com/Bodmer/TFT_S6D02A1)
+
 [TFT_ST7735](https://github.com/Bodmer/TFT_ST7735)
 
 Well...
